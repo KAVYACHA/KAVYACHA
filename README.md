@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title> my own </title>
     <body>
     <h1><B><I>K.cTeCh</I></B></h1>
       <hr><br>
